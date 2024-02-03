@@ -1,16 +1,20 @@
 # voice_asisstant
 
-A new Flutter project.
+My new Flutter project.
 
-## Getting Started
+This is what the application looks like:
 
-This project is a starting point for a Flutter application.
+![Screenshot (66)](https://github.com/Yamlak1/AI-voice-assistant/assets/118682315/49f0e83c-a3e1-4569-9d13-23c1f95d27a7)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+So to start you press the mic at the bottom of the screen and give your command :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here is an example when I ask about the rules of Football:
+
+![Screenshot (67)](https://github.com/Yamlak1/AI-voice-assistant/assets/118682315/8c7d5259-09e0-464b-ae2c-e2f82fe88094)
+
+![Screenshot (68)](https://github.com/Yamlak1/AI-voice-assistant/assets/118682315/6958953d-518c-4b88-b6be-75d082187bf2)
+
+
+If you want to ask about an a question that involves an image it will use DALL-E
+and gives the image.
