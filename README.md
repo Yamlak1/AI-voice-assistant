@@ -1,5 +1,10 @@
 # voice_asisstant
 
+Change the API key in the secrets file found in the lib folder with your chat-gpt API key. 
+
+You can access the key at this Link :- https://platform.openai.com/api-keys
+
+
 My new Flutter project.
 
 This is what the application looks like:
